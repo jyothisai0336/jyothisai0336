@@ -61,18 +61,6 @@ I'm a passionate **DevOps Engineer** with **4.2 years of hands-on experience** c
 ## 📱 Connect & Follow
 
 <p align="center">
-  <a href="https://www.youtube.com/@jyothisaimekala" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@jyothisaimekala" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/jyothisaimekala" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/jyothisai-mekala-6852a822a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -91,15 +79,6 @@ I'm a passionate **DevOps Engineer** with **4.2 years of hands-on experience** c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothisai0336&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
-</p>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyothisai0336&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
