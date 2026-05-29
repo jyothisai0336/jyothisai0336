@@ -92,18 +92,6 @@ I'm always open to exciting DevOps opportunities, collaborations, and knowledge 
   <a href="https://www.linkedin.com/in/jyothisai-mekala-6852a822a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@jyothisaimekala" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/jyothisaimekala" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@jyothisaimekala" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
 </p>
 
 <p align="center">
