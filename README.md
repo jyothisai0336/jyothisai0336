@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jyothisai0336&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Remote_DevSecOps_Roles-34D399?style=flat-square&labelColor=0A0E27" alt="Open to roles"/>
+  <img src="https://img.shields.io/badge/Open_to_work-34D399?style=flat-square&labelColor=0A0E27" alt="Open to Work"/>
 </p>
 
 <!-- ANIMATED TYPING LINE -->
