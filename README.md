@@ -123,24 +123,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyothisai0336&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D4FF&text_color=C9D1E8&icon_color=7C3AED" alt="GitHub Stats" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyothisai0336&hide_border=true&background=00000000&stroke=7C3AED&ring=00D4FF&fire=F472B6&currStreakNum=F4F8FF&sideNums=F4F8FF&currStreakLabel=00D4FF&sideLabels=C9D1E8&dates=8B92B0" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothisai0336&layout=compact&hide_border=true&bg_color=00000000&title_color=00D4FF&text_color=C9D1E8&langs_count=8" alt="Top Languages" width="42%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyothisai0336&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🩸 Blood Bank Management System
@@ -171,7 +153,7 @@ Social event web app for creating, discovering, and joining outdoor campfire gat
   <a href="https://www.linkedin.com/in/jyothisai-mekala-6852a822a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mekalajyothisai8@gmail.com">
+  <a href="mailto:mekalajyothisai3@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/jyothisai0336" target="_blank">
